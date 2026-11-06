@@ -2,14 +2,14 @@
   "schema": 1,
   "product": "cloud-dock",
   "channel": "beta",
-  "version": "1.1.4-beta.3",
-  "published_at": "2026-11-05T14:06:07.3283289Z",
-  "notes": "云屿 Cloud Dock 1.1.4-beta.3 测试版\r\n\r\n改善图片预览、菜单、弹窗和传输分组动效，优化大目录与窄窗口体验；修复更多操作菜单及 Windows 图标尺寸。\r\n\r\n此版本用于测试，真实网盘线路及不同系统缩放环境仍需进一步验证。",
+  "version": "1.2.0",
+  "published_at": "2026-11-06T02:16:59.7618384Z",
+  "notes": "云屿 Cloud Dock 1.2.0 正式版\r\n\r\n最近浏览支持文件夹、文件和媒体预览，并在本机加密保存。分享中心新增网盘账号分享列表，保留本机收藏与创建记录。\r\n\r\n统一焦点描边，优化菜单、编辑面板、通知及动画，减少布局跳动。\r\n\r\n百度、夸克账号分享列表已通过模拟测试，真实账号和平台线路仍需进一步验证。",
   "artifact": {
     "kind": "installer",
     "architecture": "windows-x64",
-    "url": "https://github.com/mouse0901/cloud-dock-downloads/releases/download/v1.1.4-beta.3/CloudDock-1.1.4-beta.3-Setup-x64.exe",
-    "size": 17422979,
-    "sha256": "aeb837b3a8bd69129b55d5a84c4f3191fb15eedb7116506ff2882c3b7c169e11"
+    "url": "https://github.com/mouse0901/cloud-dock-downloads/releases/download/v1.2.0/CloudDock-1.2.0-Setup-x64.exe",
+    "size": 17477426,
+    "sha256": "10122d0ca861d463eb131eef5ca65f5644d75ed88a1fb04f9f62770db710e3cc"
   }
 }
