@@ -7,9 +7,9 @@
 一款面向 Windows 的个人网盘桌面工具。  
 在同一个窗口中浏览百度网盘与夸克网盘，管理文件、传输和分享链接。
 
-**[下载 Windows 测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.1.4-beta.1)**　 · 　[查看所有版本](https://github.com/mouse0901/cloud-dock-downloads/releases)
+**[下载 Windows 测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.2)**　 · 　[查看所有版本](https://github.com/mouse0901/cloud-dock-downloads/releases)
 
-Windows 10 / 11 · 64 位 · 当前版本 1.1.4-beta.1
+Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.2
 
 </div>
 
@@ -45,10 +45,10 @@ Windows 10 / 11 · 64 位 · 当前版本 1.1.4-beta.1
 
 ## 下载与安装
 
-**当前公开版本：1.1.4-beta.1 测试版**
+**当前公开版本：1.2.1-beta.2 测试版**
 
-1. 打开 [1.1.4-beta.1 版本页面](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.1.4-beta.1)。
-2. 在 **Assets** 中下载 `CloudDock-1.1.4-beta.1-Setup-x64.exe`。
+1. 打开 [1.2.1-beta.2 版本页面](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.2)。
+2. 在 **Assets** 中下载 `CloudDock-1.2.1-beta.2-Setup-x64.exe`。
 3. 运行安装程序，根据向导选择程序目录和独立的数据目录。软件使用 Windows 10 / 11 64 位环境，依赖 .NET Framework 4.8 和 Microsoft WebView2。
 
 > 安装程序目前尚未取得 Windows 代码签名，系统可能提示“未知发布者”。请从本仓库的版本页面下载，并按下方方法核对文件。
@@ -62,10 +62,10 @@ Windows 10 / 11 · 64 位 · 当前版本 1.1.4-beta.1
 Get-FileHash -Algorithm SHA256 "安装包的完整路径"
 ```
 
-1.1.4-beta.1 安装包的 SHA-256：
+1.2.1-beta.2 安装包的 SHA-256：
 
 ```text
-f8114ebfb4978abf52b5c2fc6239c374cc0571d9c5cb77d6811bffae8229bdbb
+f5702671ed8911384914361e7cd94326764343b75355a205216127205522052d
 ```
 
 校验值也可在对应版本的发布说明中查看。以后下载其他版本，请以对应版本的校验信息为准。
@@ -84,9 +84,9 @@ f8114ebfb4978abf52b5c2fc6239c374cc0571d9c5cb77d6811bffae8229bdbb
 
 ## 版本更新
 
-老版本仍使用旧更新地址，**需要先手动安装一次本版**。安装后可在软件的 **设置 → 关于与更新** 中检查、下载更新，并自行选择安装时间。更新信息会经过签名校验，下载的安装包也会核对大小和 SHA-256。
+仍使用旧更新地址的版本，**需要先手动安装一次新版**；已使用公开下载仓库更新源的版本，可以直接检查更新。安装后可在软件的 **设置 → 关于与更新** 中检查、下载更新，并自行选择安装时间。更新信息会经过签名校验，下载的安装包也会核对大小和 SHA-256。
 
-- **正式版通道**：默认选择；目前暂无可用的新正式版。
+- **正式版通道**：默认选择；当前正式版为 1.2.0。
 - **测试版通道**：希望接收后续测试版时，可在更新设置中主动选择。
 
 遇到网络或 GitHub 连接问题时，可以检查软件中的更新网络设置，再手动重试。
@@ -133,6 +133,6 @@ f8114ebfb4978abf52b5c2fc6239c374cc0571d9c5cb77d6811bffae8229bdbb
 
 **云屿 Cloud Dock** · 让文件流转更从容
 
-[下载测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.1.4-beta.1)　 · 　[查看版本记录](https://github.com/mouse0901/cloud-dock-downloads/releases)
+[下载测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.2)　 · 　[查看版本记录](https://github.com/mouse0901/cloud-dock-downloads/releases)
 
 </div>

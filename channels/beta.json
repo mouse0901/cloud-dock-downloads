@@ -1,15 +1,15 @@
 {
-  "schema": 1,
-  "product": "cloud-dock",
-  "channel": "beta",
-  "version": "1.2.1-beta.1",
-  "published_at": "2026-11-06T06:19:25.4948305Z",
-  "notes": "云屿 Cloud Dock 1.2.1-beta.1 测试版\n\n传输页面重新整理为当前任务、需要处理和历史记录，文件夹与跨盘复制统一展示，详细信息按需打开。\n\n优化网盘标签切换及列表、网格视图之间的动画；修复缩略图遮挡选择框的问题，保持选择、焦点与浏览位置。\n\n本版已通过隔离界面、接口及编译封装检查。真实百度、夸克线路的传输体验仍需进一步验证。",
-  "artifact": {
-    "kind": "installer",
-    "architecture": "windows-x64",
-    "url": "https://github.com/mouse0901/cloud-dock-downloads/releases/download/v1.2.1-beta.1/CloudDock-1.2.1-beta.1-Setup-x64.exe",
-    "size": 17462922,
-    "sha256": "be766f49fa9ef8cf47f59e3b60ec5c01224dc37c9265d253188107ce2d82c242"
-  }
+    "schema":  1,
+    "product":  "cloud-dock",
+    "channel":  "beta",
+    "version":  "1.2.1-beta.2",
+    "published_at":  "2026-11-06T11:38:54.2163580+00:00",
+    "notes":  "云屿 Cloud Dock 1.2.1-beta.2 测试版\r\n\r\n文件夹下载支持进入目录管理，保留跨目录选择，可暂停、继续及移出不需要的文件。\r\n\r\n准备与实际传输合为同一任务，停止先阻止新增下载；取消操作后台收尾，精简普通进度通知。\r\n\r\n同时包含设置分组、账号面板与头像回退、固定界面缩放及删除结果核对改进。\r\n\r\n本版为测试版，真实网盘线路速度、头像接口兼容性和特定文件删除仍需实测。",
+    "artifact":  {
+                     "kind":  "installer",
+                     "architecture":  "windows-x64",
+                     "url":  "https://github.com/mouse0901/cloud-dock-downloads/releases/download/v1.2.1-beta.2/CloudDock-1.2.1-beta.2-Setup-x64.exe",
+                     "size":  17526604,
+                     "sha256":  "f5702671ed8911384914361e7cd94326764343b75355a205216127205522052d"
+                 }
 }
