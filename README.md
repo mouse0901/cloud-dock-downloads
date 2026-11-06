@@ -7,9 +7,9 @@
 一款面向 Windows 的个人网盘桌面工具。  
 在同一个窗口中浏览百度网盘与夸克网盘，管理文件、传输和分享链接。
 
-**[下载 Windows 测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.2)**　 · 　[查看所有版本](https://github.com/mouse0901/cloud-dock-downloads/releases)
+**[下载 Windows 测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.3)**　 · 　[查看所有版本](https://github.com/mouse0901/cloud-dock-downloads/releases)
 
-Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.2
+Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.3
 
 </div>
 
@@ -35,6 +35,10 @@ Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.2
 
 按需设置文件或文件夹同步方向，查看同步事项；也可以管理和切换个人网盘账号。首次使用同步时，建议先用小范围目录核对方向和位置。
 
+### 📄 在线预览
+
+使用大阅读区查看 PDF、文本、代码、图片、音频和视频，支持全屏阅读。可用线路按需读取；文件格式、编码及网盘线路能力会影响实际效果。
+
 ### ◐ 更贴近桌面的体验
 
 支持浅色与深色主题、系统托盘、任务通知和常用界面设置。关闭窗口后是否保留托盘运行，可以在软件设置中调整。
@@ -45,10 +49,10 @@ Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.2
 
 ## 下载与安装
 
-**当前公开版本：1.2.1-beta.2 测试版**
+**当前公开版本：1.2.1-beta.3 测试版**
 
-1. 打开 [1.2.1-beta.2 版本页面](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.2)。
-2. 在 **Assets** 中下载 `CloudDock-1.2.1-beta.2-Setup-x64.exe`。
+1. 打开 [1.2.1-beta.3 版本页面](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.3)。
+2. 在 **Assets** 中下载 `CloudDock-1.2.1-beta.3-Setup-x64.exe`。
 3. 运行安装程序，根据向导选择程序目录和独立的数据目录。软件使用 Windows 10 / 11 64 位环境，依赖 .NET Framework 4.8 和 Microsoft WebView2。
 
 > 安装程序目前尚未取得 Windows 代码签名，系统可能提示“未知发布者”。请从本仓库的版本页面下载，并按下方方法核对文件。
@@ -62,10 +66,10 @@ Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.2
 Get-FileHash -Algorithm SHA256 "安装包的完整路径"
 ```
 
-1.2.1-beta.2 安装包的 SHA-256：
+1.2.1-beta.3 安装包的 SHA-256：
 
 ```text
-f5702671ed8911384914361e7cd94326764343b75355a205216127205522052d
+bf72032c5573868994d50425706ff16cccdbcca2d6f2e7489d9737ddd2c38fdb
 ```
 
 校验值也可在对应版本的发布说明中查看。以后下载其他版本，请以对应版本的校验信息为准。
@@ -133,6 +137,6 @@ f5702671ed8911384914361e7cd94326764343b75355a205216127205522052d
 
 **云屿 Cloud Dock** · 让文件流转更从容
 
-[下载测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.2)　 · 　[查看版本记录](https://github.com/mouse0901/cloud-dock-downloads/releases)
+[下载测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.3)　 · 　[查看版本记录](https://github.com/mouse0901/cloud-dock-downloads/releases)
 
 </div>

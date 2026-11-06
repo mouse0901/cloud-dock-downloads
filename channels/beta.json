@@ -2,14 +2,14 @@
     "schema":  1,
     "product":  "cloud-dock",
     "channel":  "beta",
-    "version":  "1.2.1-beta.2",
-    "published_at":  "2026-11-06T11:38:54.2163580+00:00",
-    "notes":  "云屿 Cloud Dock 1.2.1-beta.2 测试版\r\n\r\n文件夹下载支持进入目录管理，保留跨目录选择，可暂停、继续及移出不需要的文件。\r\n\r\n准备与实际传输合为同一任务，停止先阻止新增下载；取消操作后台收尾，精简普通进度通知。\r\n\r\n同时包含设置分组、账号面板与头像回退、固定界面缩放及删除结果核对改进。\r\n\r\n本版为测试版，真实网盘线路速度、头像接口兼容性和特定文件删除仍需实测。",
+    "version":  "1.2.1-beta.3",
+    "published_at":  "2026-11-06T18:28:12.6012998+00:00",
+    "notes":  "浜戝笨 Cloud Dock 1.2.1-beta.3 娴嬭瘯鐗?\n\r\n棰勮鏀逛负鍗犳弧涓荤獥鍙ｇ殑闃呰甯冨眬锛屾敹绱у伐鍏锋爮鍜屽簳閮ㄥ鑸紱PDF銆佹枃鏈€佸浘鐗囧強瑙嗛鍏变韩澶ч槄璇诲尯锛屾敮鎸佸叏灞忎笌閫€鍑烘仮澶嶃€?\n\r\n鏂板 PDF 缈婚〉銆佺缉鏀俱€佹煡鎵撅紝鎵╁睍鏂囨湰銆佷唬鐮併€侀煶棰戝強甯歌鍥剧墖鏍煎紡锛涘彲鐢ㄧ嚎璺寜闇€璇诲彇锛屽叧闂嵆鍋滄銆?\n\r\n閫氱煡鏂板鎼滅储銆佸垎绫诲拰鍒嗛〉锛涘彲鍥哄畾宸︿笅瑙掑ご鍍忔潵婧愬苟璁颁綇閫夋嫨銆傜簿绠€鏅€氳浆瀛樹笌娓呯悊閫氱煡锛屼慨澶嶅喎鍚姩绌轰細璇濆鐞嗐€?\n\r\n鐪熷疄缃戠洏绾胯矾鑰楁椂鍜屼笉鍚屾枃浠剁紪鐮佸吋瀹规€т粛闇€瀹炴祴銆?",
     "artifact":  {
                      "kind":  "installer",
                      "architecture":  "windows-x64",
-                     "url":  "https://github.com/mouse0901/cloud-dock-downloads/releases/download/v1.2.1-beta.2/CloudDock-1.2.1-beta.2-Setup-x64.exe",
-                     "size":  17526604,
-                     "sha256":  "f5702671ed8911384914361e7cd94326764343b75355a205216127205522052d"
+                     "url":  "https://github.com/mouse0901/cloud-dock-downloads/releases/download/v1.2.1-beta.3/CloudDock-1.2.1-beta.3-Setup-x64.exe",
+                     "size":  20286366,
+                     "sha256":  "bf72032c5573868994d50425706ff16cccdbcca2d6f2e7489d9737ddd2c38fdb"
                  }
 }
