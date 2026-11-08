@@ -7,9 +7,11 @@
 一款面向 Windows 的个人网盘桌面工具。  
 在同一个窗口中浏览百度网盘与夸克网盘，管理文件、传输和分享链接。
 
-**[下载 Windows 测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.3)**　 · 　[查看所有版本](https://github.com/mouse0901/cloud-dock-downloads/releases)
+**[下载 Windows 测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.5)**　 · 　[查看所有版本](https://github.com/mouse0901/cloud-dock-downloads/releases)
 
-Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.3
+Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.5
+
+本测试版包含十家新增网盘的接入验证（共 12 家）。真实账号与线路兼容性仍在测试，请先使用本人有权限的小文件。
 
 </div>
 
@@ -49,10 +51,10 @@ Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.3
 
 ## 下载与安装
 
-**当前公开版本：1.2.1-beta.3 测试版**
+**当前公开版本：1.2.1-beta.5 测试版**
 
-1. 打开 [1.2.1-beta.3 版本页面](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.3)。
-2. 在 **Assets** 中下载 `CloudDock-1.2.1-beta.3-Setup-x64.exe`。
+1. 打开 [1.2.1-beta.5 版本页面](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.5)。
+2. 在 **Assets** 中下载 `CloudDock-1.2.1-beta.5-Setup-x64.exe`。
 3. 运行安装程序，根据向导选择程序目录和独立的数据目录。软件使用 Windows 10 / 11 64 位环境，依赖 .NET Framework 4.8 和 Microsoft WebView2。
 
 > 安装程序目前尚未取得 Windows 代码签名，系统可能提示“未知发布者”。请从本仓库的版本页面下载，并按下方方法核对文件。
@@ -66,7 +68,7 @@ Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.3
 Get-FileHash -Algorithm SHA256 "安装包的完整路径"
 ```
 
-1.2.1-beta.3 安装包的 SHA-256：
+1.2.1-beta.5 安装包的 SHA-256：
 
 ```text
 bf72032c5573868994d50425706ff16cccdbcca2d6f2e7489d9737ddd2c38fdb
@@ -137,6 +139,6 @@ bf72032c5573868994d50425706ff16cccdbcca2d6f2e7489d9737ddd2c38fdb
 
 **云屿 Cloud Dock** · 让文件流转更从容
 
-[下载测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.3)　 · 　[查看版本记录](https://github.com/mouse0901/cloud-dock-downloads/releases)
+[下载测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.5)　 · 　[查看版本记录](https://github.com/mouse0901/cloud-dock-downloads/releases)
 
 </div>
