@@ -7,9 +7,9 @@
 一款面向 Windows 的个人网盘桌面工具。  
 在同一个窗口中浏览百度网盘与夸克网盘，管理文件、传输和分享链接。
 
-**[下载 Windows 测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.5)**　 · 　[查看所有版本](https://github.com/mouse0901/cloud-dock-downloads/releases)
+**[下载 Windows 测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.6)**　 · 　[查看所有版本](https://github.com/mouse0901/cloud-dock-downloads/releases)
 
-Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.5
+Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.6
 
 本测试版包含十家新增网盘的接入验证（共 12 家）。真实账号与线路兼容性仍在测试，请先使用本人有权限的小文件。
 
@@ -27,7 +27,7 @@ Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.5
 
 ### ⇅ 上传与下载
 
-在传输中心查看上传、下载和任务状态。对适用的任务可以暂停、继续或重试；任务记录和通知帮助你了解进度与需要处理的事项。
+选择文件夹后即可开始下载，后台边读取边加入队列，无需等待所有子目录扫描完成。在传输中心查看已发现的文件、下载进度与任务状态；可以进入任务文件夹，暂停、继续、重试或移出不需要的文件。
 
 ### 🔗 打开分享链接
 
@@ -51,10 +51,10 @@ Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.5
 
 ## 下载与安装
 
-**当前公开版本：1.2.1-beta.5 测试版**
+**当前公开版本：1.2.1-beta.6 测试版**
 
-1. 打开 [1.2.1-beta.5 版本页面](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.5)。
-2. 在 **Assets** 中下载 `CloudDock-1.2.1-beta.5-Setup-x64.exe`。
+1. 打开 [1.2.1-beta.6 版本页面](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.6)。
+2. 在 **Assets** 中下载 `CloudDock-1.2.1-beta.6-Setup-x64.exe`。
 3. 运行安装程序，根据向导选择程序目录和独立的数据目录。软件使用 Windows 10 / 11 64 位环境，依赖 .NET Framework 4.8 和 Microsoft WebView2。
 
 > 安装程序目前尚未取得 Windows 代码签名，系统可能提示“未知发布者”。请从本仓库的版本页面下载，并按下方方法核对文件。
@@ -68,7 +68,7 @@ Windows 10 / 11 · 64 位 · 当前版本 1.2.1-beta.5
 Get-FileHash -Algorithm SHA256 "安装包的完整路径"
 ```
 
-1.2.1-beta.5 安装包的 SHA-256：
+1.2.1-beta.6 安装包的 SHA-256：
 
 ```text
 bf72032c5573868994d50425706ff16cccdbcca2d6f2e7489d9737ddd2c38fdb
@@ -139,6 +139,6 @@ bf72032c5573868994d50425706ff16cccdbcca2d6f2e7489d9737ddd2c38fdb
 
 **云屿 Cloud Dock** · 让文件流转更从容
 
-[下载测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.5)　 · 　[查看版本记录](https://github.com/mouse0901/cloud-dock-downloads/releases)
+[下载测试版](https://github.com/mouse0901/cloud-dock-downloads/releases/tag/v1.2.1-beta.6)　 · 　[查看版本记录](https://github.com/mouse0901/cloud-dock-downloads/releases)
 
 </div>
